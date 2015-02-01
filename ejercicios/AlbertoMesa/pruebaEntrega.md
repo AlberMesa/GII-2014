@@ -49,7 +49,7 @@
 
 
 **Ha participado en esta configuración de despliegue automático** 
-(Trabajamos en Azure pero es válido para cualquier otra infraestructura como servicio):
+(Trabajamos en Azure pero es válido para cualquier otra plataforma como servicio).
 
 - Estudio, instalación, uso y configuración de herramientas Azure, Vagrant y Ansible.
 
